@@ -65,6 +65,6 @@ LED indicators provide **on-site danger alerts** based on the current water leve
 
 ---
 
-🌍 Impact
+## 🌍 Impact
 This system helps reduce the negative effects of water scarcity by providing early warnings for low water levels.
 It enhances resource efficiency and remote supervision, offering a scalable solution for IoT-based environmental monitoring.
